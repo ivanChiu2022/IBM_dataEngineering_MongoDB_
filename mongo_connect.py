@@ -1,3 +1,6 @@
+
+
+
 from pymongo import MongoClient
 user = 'root'
 password = 'MjQwOTgtcnNhbm5h' # CHANGE THIS TO THE PASSWORD YOU NOTED IN THE EARLIER EXCERCISE - 2
